@@ -9,6 +9,7 @@ h1 {
   padding-top: 30px;
   font-family: "Sacramento", cursive;
   font-size: 72px;
+  margin-bottom: 0px;
 }
 
 h2 {
@@ -80,9 +81,7 @@ hr {
 .fp {
   font-family: "Merriweather Sans", sans-serif;
   font-size: 24px;
-  position: absolute;
-  top: 110px;
-  left: 530px;
+  
 }
 .gap {
   margin-bottom: 25px;
